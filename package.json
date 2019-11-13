@@ -1,0 +1,15 @@
+{
+    "name": "heroku-teste",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node app.js",
+        "test": ""
+    },
+    "author": "Dyeimes",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
